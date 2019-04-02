@@ -4,7 +4,7 @@
 ### 读书分享安排
 
 1. [Android系统架构](./Android进阶解密/1.Android系统架构.md)
-2. JNI原理
+2. [JNI原理](./Android进阶解密/2.JNI原理.md)
 2. Android系统启动
 3. 应用程序进程启动 
 4. 四大组件的工作过程
